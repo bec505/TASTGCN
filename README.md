@@ -21,7 +21,7 @@ The code is built based on the following libraries and versions:
 
 ## Data
 
-The PEMS04 and PEMS08 datasets are located in the **data** folder directory.
+The PEMS03 and PEMS08 datasets are located in the **data** folder directory.
 
 ## Usage
 
